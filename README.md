@@ -18,4 +18,5 @@ This project is a Power BI report that analyzes sales data from the AdventureWor
 
 #### Below is an example of sales report:
 ![image](https://github.com/user-attachments/assets/b3352b60-883a-4518-888a-d655fc2428c8)
- 
+
+### This work is licensed by MIT license
